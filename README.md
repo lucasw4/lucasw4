@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**lucasw4/lucasw4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas Wade, a Full-Stack Web Developer based in Vancouver, BC. Welcome to my Github profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a 22 year old Web Dev, and graduate from the Lighthouse Labs Full-Stack Web Development bootcamp. I have a strong passion for learning all about web development and AI.
+
+## My Github Stats
+
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasw4)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,postgres,bootstrap)](https://skillicons.dev)
+
+## Get In Touch
+
+- lucaswade4@gmail.com
+- www.lucaswade.dev
+- https://www.linkedin.com/in/l-wade/
+
+Thanks for stopping by!
